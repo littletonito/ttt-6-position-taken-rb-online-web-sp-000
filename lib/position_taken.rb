@@ -13,8 +13,8 @@ def position_taken?(board, index)
 
 end
 
-# OR 
-# 
+# OR
+#
 # def position_taken?(board, index)
 #   if board[index] == "" || " "
 #     false
